@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a644d452.css",
+    "main.css": "/static/css/main.ba739ed8.css",
     "main.js": "/static/js/main.009f06ad.js",
     "static/media/monster-normal.png": "/static/media/monster-normal.4257d9539c04f1f312cd.png",
     "static/media/resume2020.docx": "/static/media/resume2020.29a653212ed901f472e4.docx",
@@ -12,11 +12,11 @@
     "static/media/1591833_codepen_icon.ico": "/static/media/1591833_codepen_icon.4541edbcef7e15c69182.ico",
     "static/media/4550857_email_gmail_mail_sending_yahoo_icon.ico": "/static/media/4550857_email_gmail_mail_sending_yahoo_icon.cd58a709c8c61efab48c.ico",
     "index.html": "/index.html",
-    "main.a644d452.css.map": "/static/css/main.a644d452.css.map",
+    "main.ba739ed8.css.map": "/static/css/main.ba739ed8.css.map",
     "main.009f06ad.js.map": "/static/js/main.009f06ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.a644d452.css",
+    "static/css/main.ba739ed8.css",
     "static/js/main.009f06ad.js"
   ]
 }
