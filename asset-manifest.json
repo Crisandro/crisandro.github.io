@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.04defab7.css",
-    "main.js": "/static/js/main.94881061.js",
+    "main.css": "/static/css/main.7e1175fd.css",
+    "main.js": "/static/js/main.7df98ccc.js",
     "static/media/monster-normal.png": "/static/media/monster-normal.4257d9539c04f1f312cd.png",
-    "static/media/resume2020.docx": "/static/media/resume2020.900a9c7113c1c417a359.docx",
+    "static/media/CrisandroBasoyResume2023.docx": "/static/media/CrisandroBasoyResume2023.22a4559eff350717a536.docx",
     "static/media/animation.jpg": "/static/media/animation.86bdfd961fadb7a6ed65.jpg",
     "static/media/wind.png": "/static/media/wind.9091ecdb1732fafb8fb9.png",
+    "static/media/AMS.png": "/static/media/AMS.24c7a160430a67682c58.png",
     "static/media/star.png": "/static/media/star.1d1f772b29946587a72d.png",
     "static/media/MyLogo.png": "/static/media/MyLogo.87ce66cc8958c2472fc1.png",
     "static/media/287725_github_icon.ico": "/static/media/287725_github_icon.74c2b85c414bd789be87.ico",
     "static/media/1591833_codepen_icon.ico": "/static/media/1591833_codepen_icon.4541edbcef7e15c69182.ico",
     "static/media/4550857_email_gmail_mail_sending_yahoo_icon.ico": "/static/media/4550857_email_gmail_mail_sending_yahoo_icon.cd58a709c8c61efab48c.ico",
     "index.html": "/index.html",
-    "main.04defab7.css.map": "/static/css/main.04defab7.css.map",
-    "main.94881061.js.map": "/static/js/main.94881061.js.map"
+    "main.7e1175fd.css.map": "/static/css/main.7e1175fd.css.map",
+    "main.7df98ccc.js.map": "/static/js/main.7df98ccc.js.map"
   },
   "entrypoints": [
-    "static/css/main.04defab7.css",
-    "static/js/main.94881061.js"
+    "static/css/main.7e1175fd.css",
+    "static/js/main.7df98ccc.js"
   ]
 }
