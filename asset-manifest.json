@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7e1175fd.css",
-    "main.js": "/static/js/main.d2ea1c2d.js",
+    "main.js": "/static/js/main.496a0bdd.js",
     "static/media/monster-normal.png": "/static/media/monster-normal.4257d9539c04f1f312cd.png",
     "static/media/CrisandroBasoyResume2023.docx": "/static/media/CrisandroBasoyResume2023.22a4559eff350717a536.docx",
     "static/media/animation.jpg": "/static/media/animation.86bdfd961fadb7a6ed65.jpg",
@@ -14,10 +14,10 @@
     "static/media/4550857_email_gmail_mail_sending_yahoo_icon.ico": "/static/media/4550857_email_gmail_mail_sending_yahoo_icon.cd58a709c8c61efab48c.ico",
     "index.html": "/index.html",
     "main.7e1175fd.css.map": "/static/css/main.7e1175fd.css.map",
-    "main.d2ea1c2d.js.map": "/static/js/main.d2ea1c2d.js.map"
+    "main.496a0bdd.js.map": "/static/js/main.496a0bdd.js.map"
   },
   "entrypoints": [
     "static/css/main.7e1175fd.css",
-    "static/js/main.d2ea1c2d.js"
+    "static/js/main.496a0bdd.js"
   ]
 }
